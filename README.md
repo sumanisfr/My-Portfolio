@@ -1,42 +1,86 @@
-# Personal Portfolio 🎨
+# 💻 Suman Kumar's Developer Portfolio
 
-Welcome to my portfolio repository! This is a showcase of my web development journey and professional work.
+Welcome to my personal portfolio website! This project is a modern, animated, and responsive web-based portfolio showcasing my skills, projects, and online presence.
 
-## 🚀 Features
+## 🚀 Live Preview
 
-- Responsive design
-- Animated sections
-- Project showcase
-- Contact form
-- Skills display
-- Dark/Light mode
+> [🔗 Visit Portfolio](https://sumanisfr.github.io/) *(Replace with your actual GitHub Pages link if deployed)*
 
-## 🛠️ Technologies Used
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- GSAP (for animations)
+## 📂 Project Structure
 
-## 📥 Installation
+📁 Portfolio/
+├── index.html
+├── style.css
+├── videos/
+│ ├── galaxy.mp4
+│ ├── blackhole3.mp4
+│ ├── hero-video.mp4
+│ ├── newwwwwwwwwwwwwwwww.mp4
+│ └── project2.mp4
+├── images/
+│ ├── Sumancode.png
+│ ├── grid4.png
+│ ├── grid6.png
+│ ├── grid7.png
+├── README.md
 
-1. Clone this repository
+
+---
+
+## 🌟 Features
+
+- 🎥 Animated video backgrounds
+- 🖥️ Responsive layout
+- 💡 AOS scroll animations
+- 📱 Mobile sidebar navigation
+- 🔐 Emphasis on secure coding and clean design
+- 🔗 Integrated with social media (GitHub, LinkedIn, YouTube, LeetCode)
+
+---
+
+## 🛠️ Built With
+
+- **HTML5** – Structure
+- **CSS3** – Styling & Layout
+- **JavaScript (Planned)** – Interactions (sidebar toggle, animations)
+- **Boxicons** – Icon library
+- **AOS.js** – Animation on scroll
+- **Video Embeds** – Dynamic and interactive visual elements
+
+---
+
+## 👨‍💻 Author
+
+**Suman Kumar Ghosh**  
+- [LinkedIn](https://www.linkedin.com/in/suman-kumar-ghosh/)
+- [GitHub](https://github.com/sumanisfr)
+- [YouTube](https://www.youtube.com/@Suman900.)
+- [LeetCode](https://leetcode.com/u/sumankumarghosh/)
+
+---
+
+## 📌 How to Run Locally
+
 ```bash
-git clone https://github.com/yourusername/Animated-Portfolio
-```
+git clone https://github.com/sumanisfr/portfolio.git
+cd portfolio
+# Open index.html in any browser
 
-## 📱 Live Demo
 
-[View Portfolio](your-portfolio-link-here)
+✅ To Do
+Add JavaScript for menu toggle and scroll interactions
 
-## 📬 Contact
+Improve accessibility and SEO tags
 
-Feel free to reach out to me:
-- Email: your.email@example.com
-- LinkedIn: [Your Name](your-linkedin-profile)
-- GitHub: [Your Username](your-github-profile)
+Add contact form functionality
 
-## 📄 License
+📄 License
+This project is licensed under the MIT License - feel free to use and modify it!
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details."# My-Portfolio" 
+
+---
+
+Let me know if you'd like to include deployment instructions (e.g., for GitHub Pages or Netlify).
+
