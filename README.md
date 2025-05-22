@@ -26,21 +26,6 @@ Welcome to my portfolio repository! This is a showcase of my web development jou
 git clone https://github.com/yourusername/Animated-Portfolio
 ```
 
-2. Navigate to project directory
-```bash
-cd Animated-Portfolio
-```
-
-3. Install dependencies
-```bash
-npm install
-```
-
-4. Run the development server
-```bash
-npm start
-```
-
 ## 📱 Live Demo
 
 [View Portfolio](your-portfolio-link-here)
