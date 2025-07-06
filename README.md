@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project is a modern, animated, an
 
 ## 🚀 Live Preview
 
-> [🔗 Visit Portfolio](https://sumanisfr.github.io/) *(Replace with your actual GitHub Pages link if deployed)*
+> [🔗 Visit Portfolio](https://sumanisfr.github.io/My-Portfolio/) *(Replace with your actual GitHub Pages link if deployed)*
 
 ---
 
